@@ -11,12 +11,12 @@ Dirbdamas vertinu tvarką, tikslumą ir logiką, stengiuosi kurti sprendimus, ku
 
 ## 💻 Naudojamos technologijos
 
-- Programavimas & Web: Python, Django, PyQt, REST API, BeautifulSoup  
+- Programavimas & Web: Python, Django, PyQt, API, BeautifulSoup  
 - Duomenų bazės: SQLite, PostgreSQL  
 - Serveriai & tinklai: Ubuntu Server, Nginx, tinklų konfigūravimas  
 - Versijų valdymas: Git / GitHub  
-- Elektronika & technika: kompiuterių surinkimas, OS diegimas, elektronika (remontas, gamyba)
-- Kūryba & multimedija: MS Office, CorelDRAW, vaizdo ir garso redagavimas  
+- Elektronika & technika: kompiuterių surinkimas, OS ir programinės įrangos diegimas, elektronika (remontas, gamyba)
+- Kūryba & multimedija: PyCharm, MS Office, CorelDRAW, vaizdo ir garso redagavimas  
 
 #
 
