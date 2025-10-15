@@ -1,6 +1,4 @@
-Esu DIY entuziastas ir Python Full-Stack programuotojas, turintis elektronikos ir IT išsilavinimą. Mėgstu suprasti, kaip veikia sistemos – nuo grandinių ir komponentų iki serverių ir programinės įrangos.  
-
-Dirbdamas vertinu tvarką, tikslumą ir logiką, stengiuosi kurti sprendimus, kurie būtų praktiški, aiškūs ir estetiški. Domiuosi programavimu, elektronika, garso ir vaizdo sistemomis bei dirbtiniu intelektu (AI).
+Esu DIY entuziastas ir Python Full-Stack programuotojas, turintis elektronikos ir IT išsilavinimą. Vertinu tvarką, tikslumą ir logiką, stengiuosi kurti sprendimus, kurie būtų praktiški, aiškūs ir estetiški.
 
 ## 🏫 Išsilavinimas
 
@@ -9,7 +7,7 @@ Dirbdamas vertinu tvarką, tikslumą ir logiką, stengiuosi kurti sprendimus, ku
 - Python Full-Stack programuotojo kvalifikacija – CodeAcademy  
 
 
-## 💻 Naudojamos technologijos
+## 💻 Įgūdžiai
 
 - Programavimas & Web: Python, Django, PyQt, API, BeautifulSoup  
 - Duomenų bazės: SQLite, PostgreSQL  
